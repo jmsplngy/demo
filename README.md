@@ -3,3 +3,5 @@
 Creating my first file!
 
 Appending new updatess
+
+Stashing
