@@ -1,7 +1,3 @@
-#Heading number 1.
+#Heading 1
 
-Creating my first file!
-
-Appending new updatess
-
-Stashing
+Working Directory >> Staging Area >> Repository 
